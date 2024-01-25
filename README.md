@@ -50,4 +50,4 @@ métricas de erro, nomeadamente Accuracy, Precision e Recall. Processo de otimiz
 
 ## Literatura Consultada:
 
-R. Miguel- Fichas resolvidas na UC de Bioinformática 2023/2024
+Rocha.M - Fichas resolvidas na UC de Bioinformática 2023/2024
