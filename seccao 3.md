@@ -1,4 +1,4 @@
-# Secção 3
+# SECÇÃO 3
 Para responder ao objetivo de avaliar a distribuição de subtipos de cancro, utilizou-se técnicas de aprendizagem super-visionada. Dessa forma, conseguimos analisar e comparar valores de previsão através de características como accuracy. Os modelos de aprendizagem que abordamos foram: KNN (K - Nearest Neighbors), árvores de decisão, SVM (Support Vector Machine), random forest e naive bayes.
 
 Em relação às métricas de erro, usamos a cross validation, matriz de confusão, accuracy, precisão e sensibilidade.
