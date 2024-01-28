@@ -1,4 +1,4 @@
-Secção 2
+# SECÇÃO 2
 
 Para esta secção, houve a necessidade de selecionar o atributo (‘SUBTYPE’), de forma a se proceder ao uso das técnicas de redução de dimensionalidade. 
 
