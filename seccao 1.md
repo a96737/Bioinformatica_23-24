@@ -1,5 +1,7 @@
 Este projeto possui um conjunto de dados genómicos e dados ómicos de amostras de pacientes com cancro, dados estes que pretendemos analisar com base no conteúdo lecionado.
-SECÇÃO 1
+
+# SECÇÃO 1
+
 Nesta etapa, foi necessário entender o objetivo do estudo, bem como as diversas variáveis presentes, para aplicar o pré-processamento adequado.
 Primeiramente, converteu-se a variável "Hugo_Symbol" como index da nossa tabela de dados, ao invés da numeração inicial das linhas, e procedeu-se à eliminação da coluna "Entrez_Gene_ID" porque não se justificava ter 2 atributos referentes a "Id" dos genes. De seguida, com recurso à função "dropna", eliminou-se as linhas que apresentavam pelo menos um missing value.
 Aqui, optou-se por eliminar apenas as linhas e não as colunas, uma vez que estas últimas são referentes às amostras do estudo. Posteriormente, retirou-se os duplicados existentes nas colunas. 
